@@ -1,0 +1,11 @@
+name: TempBiomeChangePlugin
+version: 0.0.1
+api-version: 1.15
+main: me.ford.temp123.TempBiomeChangePlugin
+description: Temp Biome Change Plugin.
+authors: [drives_a_ford]
+
+commands:
+  tc:
+    description: Temp Command - change biome and show results
+    usage: /<command>
